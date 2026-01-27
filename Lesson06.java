@@ -61,8 +61,8 @@ public class Lesson06 {
 
 
 // Important 
-// mportant Rules (VERY IMPORTANT 🔥)
-// 🔑 Rule #1
+// mportant Rules
+// Rule #1
 
 // If parent has only parameterized constructor,
-// ➡️ child MUST call super(parameters)
+// child MUST call super(parameters)
